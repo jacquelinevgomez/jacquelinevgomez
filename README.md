@@ -56,8 +56,17 @@ I enjoy **making technical tasks simple for non-technical users**, and I have a 
 
 ---
 
-## Skills Table
+### Data & Analytics / Machine Learning
 
-| **🛠️ Programming & Automation** | **📊 Reporting & Dashboards** | **📈 Data Analysis & Statistics** | **💻 Machine Learning & Advanced Analytics** | **⚡ Visualization & Communication** |
-|------------------------------|---------------------------|-------------------------------|------------------------------------------|----------------------------------|
-| • **Excel** (advanced formulas, pivot tables, macros) <br>• **Office Scripts (TypeScript)** <br>• **Power Automate** <br>• **Python** (Google Colab workflows) <br>• **SQL** <br>• **SSMS** | • **Tableau** (dashboard design + visualization) <br>• **SSRS** management <br>• Automated reporting workflows <br>• Dashboard creation (end-to-end) <br>• Report development <br>• Report distribution pipelines <br>• Data pipeline mapping (source → automation → output) | • **SAS** (EDA + statistical modeling) <br>• Simple linear regression <br>• Multiple linear regression <br>• Binary logistic regression <br>• Multivariable logistic regression <br>• Ordinal logistic regression (OLR) <br>• Multinomial logistic regression <br>• Cox Proportional Hazards modeling <br>• Exploratory Data Analysis (EDA) <br>• Data cleaning & preparation <br>• KPI tracking | • Decision trees <br>• Random forest <br>• **XGBoost** <br>• Support Vector Machine (SVC) <br>• Principal Component Analysis (PCA) <br>• K-means clustering <br>• Hierarchical clustering <br>• DBSCAN clustering | • Visualization design & best practices <br>• Word cloud creation <br>• Root Cause Analysis <br>• Cross-functional communication <br>• Process improvement <br>• Documentation & reproducibility |
+| **📈 Data Analysis** | **💻 Machine Learning** |
+|---------------------|------------------------|
+| • **SAS** (EDA + statistical modeling) <br>• Simple linear regression <br>• Multiple linear regression <br>• Binary logistic regression <br>• Multivariable logistic regression <br>• Ordinal logistic regression (OLR) <br>• Multinomial logistic regression <br>• Cox Proportional Hazards modeling <br>• Exploratory Data Analysis (EDA) <br>• Data cleaning & preparation <br>• KPI tracking | • Decision trees <br>• Random forest <br>• **XGBoost** <br>• Support Vector Machine (SVC) <br>• Principal Component Analysis (PCA) <br>• K-means clustering <br>• Hierarchical clustering <br>• DBSCAN clustering |
+
+---
+
+### Tools, Automation & Reporting
+
+| **🛠️ Programming & Automation** | **📊 Reporting & Dashboards** | **⚡ Visualization & Communication** |
+|--------------------------------|-----------------------------|------------------------------------|
+| • **Excel** (advanced formulas, pivot tables, macros) <br>• **Office Scripts (TypeScript)** <br>• **Power Automate** <br>• **Python** (Google Colab workflows) <br>• **SQL** <br>• **SSMS** | • **Tableau** (dashboard design + visualization) <br>• **SSRS** management <br>• Automated reporting workflows <br>• Dashboard creation (end-to-end) <br>• Report development <br>• Report distribution pipelines <br>• Data pipeline mapping (source → automation → output) | • Visualization design & best practices <br>• Word cloud creation <br>• Root Cause Analysis <br>• Cross-functional communication <br>• Process improvement <br>• Documentation & reproducibility |
+

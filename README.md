@@ -42,8 +42,8 @@ I enjoy **making technical tasks simple for non-technical users**, and I have a 
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/jacquelinevgomez)  
-📧 gomez.jacqueline14@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jacquelinevgomez)  
+- gomez.jacqueline14@gmail.com
 
 ---
 

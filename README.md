@@ -54,7 +54,7 @@ I enjoy **making technical tasks simple for non-technical users**, and I have a 
 - Proudly combine **automation, analytics, and machine learning** to deliver usable insights.  
 - Outside of work, I love **the mountains, horseback riding, and trying new foods**.
 
-
+---
 
 ### Skills Table
 

@@ -36,7 +36,7 @@ I enjoy **making technical tasks simple for non-technical users**, and I have a 
 
 **B.S., Mathematics** – University of California, Riverside (06/2022)  
 
-**A.S., Biological Sciences | A.S., Biotechnology | A.S., Mathematics** – Citrus College
+**A.S., Biological Sciences | A.S., Biotechnology | A.S., Mathematics** – Citrus College (06/2029)
 
 ---
 

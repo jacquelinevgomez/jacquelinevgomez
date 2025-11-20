@@ -53,3 +53,11 @@ I enjoy **making technical tasks simple for non-technical users**, and I have a 
 - Perfectionist by nature — I aim for error-free, high-quality outputs.  
 - Proudly combine **automation, analytics, and machine learning** to deliver usable insights.  
 - Outside of work, I love **the mountains, horseback riding, and trying new foods**.
+
+
+
+### Skills Table
+
+| **Programming & Automation** | **Reporting & Dashboards** | **Data Analysis & Statistics** | **Machine Learning & Advanced Analytics** | **Visualization & Communication** |
+|------------------------------|---------------------------|-------------------------------|------------------------------------------|----------------------------------|
+| • **Excel** (advanced formulas, pivot tables, macros) <br>• **Office Scripts (TypeScript)** <br>• **Power Automate** <br>• **Python** (Google Colab workflows) <br>• **SQL** <br>• **SSMS** | • **Tableau** (dashboard design + visualization) <br>• **SSRS** management <br>• Automated reporting workflows <br>• Dashboard creation (end-to-end) <br>• Report development <br>• Report distribution pipelines <br>• Data pipeline mapping (source → automation → output) | • **SAS** (EDA + statistical modeling) <br>• Simple linear regression <br>• Multiple linear regression <br>• Binary logistic regression <br>• Multivariable logistic regression <br>• Ordinal logistic regression (OLR) <br>• Multinomial logistic regression <br>• Cox Proportional Hazards modeling <br>• Exploratory Data Analysis (EDA) <br>• Data cleaning & preparation <br>• KPI tracking | • Decision trees <br>• Random forest <br>• **XGBoost** <br>• Support Vector Machine (SVC) <br>• Principal Component Analysis (PCA) <br>• K-means clustering <br>• Hierarchical clustering <br>• DBSCAN clustering | • Visualization design & best practices <br>• Word cloud creation <br>• Root Cause Analysis <br>• Cross-functional communication <br>• Process improvement <br>• Documentation & reproducibility |
